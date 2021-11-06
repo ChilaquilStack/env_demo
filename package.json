@@ -7,7 +7,11 @@
     "start": "node index"
   },
   "engines": {
+<<<<<<< HEAD
     "node": "14.x"
+=======
+    "node": "14.x",
+>>>>>>> 74bba9caccf4b5d65a385c339a6daccabc643a2e
   },
   "keywords": [],
   "author": "",
